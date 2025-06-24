@@ -1,0 +1,733 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2018100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 371
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2018110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 95945
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2018120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 83315
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 67302
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 49249
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 58072
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 35268
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 35066
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 38252
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 32138
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 31089
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 52381
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 36031
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 33859
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2019120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 30281
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 32623
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 26695
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 27425
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 29627
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 29917
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 27678
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 27575
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 25302
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 29694
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 25743
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 25218
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2020120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 30086
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 27803
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23673
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 27205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 20999
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17792
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 16010
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 22306
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 20857
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 179379
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 95099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 43884
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2021120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 33008
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 35531
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 24623
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23227
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21570
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21694
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23318
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 33433
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 24602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 20144
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 20909
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23456
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 19814
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 22898
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 22915
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21455
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 25421
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 24677
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 28061
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 26437
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 26595
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2023120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 25245
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 32879
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 26350
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23425
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23741
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 22283
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 19505
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21616
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 20934
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21805
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23207
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 23360
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 29663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 28668
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 38204
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 80041
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 55091
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Deltarune",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 250315
+        }
+    ]
+}

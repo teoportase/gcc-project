@@ -1,0 +1,1066 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2015090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 3089
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2015100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 121857
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2015110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 296826
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2015120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 410866
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 416245
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 302816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 211622
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 161697
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 147062
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 126134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 124589
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 96917
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 105425
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 96965
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 88959
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2016120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 109649
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 131379
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 103900
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 94718
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 83642
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 76095
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 82226
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 73780
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 89349
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 71194
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 70541
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 63528
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2017120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 73208
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 66993
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 50885
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 77453
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 62369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 58610
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 55813
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 56956
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 60887
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 70778
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 84223
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 169292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2018120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 96637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 89287
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 78345
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 73825
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 56560
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 59676
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 62351
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 54329
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 52939
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 104405
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 71209
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 69510
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2019120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 64892
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 61077
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 54936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 57721
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 64661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 61572
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 58073
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 63620
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 60166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 75374
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 62655
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 59497
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2020120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 68462
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 67346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 61261
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 73550
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 59822
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 51733
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 44356
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 48150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 47074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 84299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 73255
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 54463
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2021120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 52528
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 59691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 44283
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 45258
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 44149
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 41888
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 42099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 39290
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 43507
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 53031
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 47040
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 43353
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 43398
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 48866
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 40578
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 50776
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 47000
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 46979
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 42076
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 52285
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 50324
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 54976
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 49937
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 52663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2023120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 54362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 63464
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 47904
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 48360
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 51410
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 48618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 44663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 45363
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 44085
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 45070
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 45716
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 45272
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 49533
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 58721
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 52320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 68501
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 73089
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 65020
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Undertale",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 84484
+        }
+    ]
+}

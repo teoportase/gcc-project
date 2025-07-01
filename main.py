@@ -1,9 +1,11 @@
+# Is this the most efficient piece of code? No, not really, but I'm using this as a playground rather than thinking about efficiency for everything
+
 # -----------------------------------------------------------------------------------------------------------------------
 #                                                    Libraries
 # -----------------------------------------------------------------------------------------------------------------------
 import json
 import requests
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 # -----------------------------------------------------------------------------------------------------------------------
 #                                                Getting the data
@@ -82,14 +84,58 @@ data = add_values(data, "deltarune", deltarune_dict)
 for entry in data:
     if "deltarune" not in data[entry]:
         data[entry].update({"deltarune": 0})
+
         
-# Save new data in a file
-with open('data/data.json', 'w') as file:
-    json.dump(data, file)
+# # Save new data in a file
+# with open('data/data.json', 'w') as file:
+#     json.dump(data, file)
+
+# Make lists of the views for ease of access
+undertale_values = []
+deltarune_values = []
+
+for entry in data:
+    undertale_values.append(data[entry]["undertale"])
+    deltarune_values.append(data[entry]["deltarune"])
 
 
 # -----------------------------------------------------------------------------------------------------------------------
-#                                                   Plotting
+#                                              Plotting & other shenanigans
 # -----------------------------------------------------------------------------------------------------------------------
-# fig, ax = plt.subplots()
-# ax.plot()
+# Get total number of views in total and per-article
+undertale_views = 0
+deltarune_views = 0
+
+for entry in data:
+    undertale_views += data[entry]["undertale"]
+    deltarune_views += data[entry]["deltarune"]
+
+print(f'Undertale total views: {undertale_views}\nDeltarune total views: {deltarune_views}\nTotal views: {undertale_views + deltarune_views}')
+
+
+# Plots, plots, and more plots!
+fig, axs = plt.subplots(2, 1, layout="constrained")
+
+# Create a bar graph for Undertale
+axs[0].bar(data.keys(), undertale_values)
+# Create a bar graph for Deltarune
+axs[1].bar(data.keys(), deltarune_values)
+
+# Undertale plot settings
+axs[0].set_title("Undertale views per month")
+axs[0].set_xlabel("Month")
+axs[0].set_ylabel("Views")
+axs[0].set_xticklabels(axs[0].get_xticklabels(), rotation=90)
+axs[0].tick_params(axis='x', which='major', labelsize=7)
+
+# Deltarune plot settings
+axs[1].set_title("Deltarune views per month")
+axs[1].set_xlabel("Month")
+axs[1].set_ylabel("Views")
+axs[1].set_xticklabels(axs[1].get_xticklabels(), rotation=90)
+axs[1].tick_params(axis='x', which='major', labelsize=7)
+
+
+
+# Show the plot
+plt.show()
